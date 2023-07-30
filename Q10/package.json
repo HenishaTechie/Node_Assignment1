@@ -1,0 +1,16 @@
+{
+  "name": "q10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node Q10.js",
+    "add": "node mulnumber.js",
+    "script1": "node script1.js", 
+     "script2": "node script2.js",
+     "script3": "node script3.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

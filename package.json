@@ -1,0 +1,20 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es": "^0.8.0",
+    "node-fetch": "^2.6.12",
+    "node-modules": "^1.0.1",
+    "node-mysql": "^0.4.2",
+    "node-static": "^0.7.11",
+    "nodejs-mysql": "^0.1.3",
+    "ws": "^8.13.0"
+  }
+}
